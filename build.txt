@@ -1,0 +1,3 @@
+displayName = Companions!
+author = Tharteon
+version = 0.1
